@@ -3,7 +3,7 @@ I'm Elizaveta Tymofieieva, a passionate front-end developer, сompleted RSScool 
 I like dreaming up ideas and making them come true with elegant interfaces. I take care of the experience, architecture, and code quality of the things I build.        
 I'm currently looking for new opportunities.    
 
-Skills:     
+### Skills:     
 
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
