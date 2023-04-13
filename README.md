@@ -1,4 +1,6 @@
-### Hi there 👋
+
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 I'm Elizaveta Tymofieieva, a passionate front-end developer, сompleted RSScool courses for front-end developers.     
 I like dreaming up ideas and making them come true with elegant interfaces. I take care of the experience, architecture, and code quality of the things I build.        
 I'm currently looking for new opportunities.    
