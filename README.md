@@ -16,6 +16,8 @@ I'm currently looking for new opportunities.
 
 ### Technologies and tools
 
+<code><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></code>
+<code><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></code>
 <code><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></code>
 <code><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></code>
 <code><img src="https://img.shields.io/badge/-GitHub-282C34?&logo=github" alt="github logo" title="github" height="25" /></code>
@@ -26,7 +28,6 @@ I'm currently looking for new opportunities.
 ### Currently learning / improving on    
 
 <code><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></code>
-<code><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /></code>
 
 
