@@ -1,7 +1,11 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm Elizaveta Tymofieieva, a passionate front-end developer, сompleted RSScool courses for front-end developers.     
+I'm Elizaveta Tymofieieva, a passionate front-end developer, сompleted RSScool courses:    
+- REACT 2023 Q1 (REACT);    
+- JAVASCRIPT/FRONT-END 2022Q3 (JAVASCRIPT);    
+- JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT).
+
 I like dreaming up ideas and making them come true with elegant interfaces. I take care of the experience, architecture, and code quality of the things I build.        
 I'm currently looking for new opportunities.    
 
