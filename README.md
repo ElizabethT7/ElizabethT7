@@ -6,8 +6,7 @@ I'm Elizaveta Tymofieieva, a passionate front-end developer, сompleted RSScool 
 - JAVASCRIPT/FRONT-END 2022Q3 (JAVASCRIPT);    
 - JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT).
 
-I like dreaming up ideas and making them come true with elegant interfaces. I take care of the experience, architecture, and code quality of the things I build.        
-I'm currently looking for new opportunities.    
+I like dreaming up ideas and making them come true with elegant interfaces. I take care of the experience, architecture, and code quality of the things I build.           
 
 ### Skills:     
 
