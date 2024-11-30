@@ -1,7 +1,15 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I'm Elizaveta Tymofieieva, a passionate front-end developer, сompleted RSScool courses:    
+I'm Elizaveta Tymofieieva, a passionate front-end developer.   
+I'm looking for new opportunities      
+
+Development experience __2+__ years (commercial development)    
+
+I am also a contributor to an open source library of components [esfront](https://github.com/Elonsoft/esfront "https://github.com/Elonsoft/esfront"),   
+and educational mentor in the RS School community.
+
+Completed RSScool courses:    
 - REACT 2023 Q1 (REACT);    
 - JAVASCRIPT/FRONT-END 2022Q3 (JAVASCRIPT);    
 - JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT).
