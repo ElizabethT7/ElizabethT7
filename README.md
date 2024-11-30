@@ -33,11 +33,11 @@ I like dreaming up ideas and making them come true with elegant interfaces. I ta
 <code><img src="https://img.shields.io/badge/Vite-B73BFE?&logo=vite&logoColor=FFD62E" alt="Vite logo" title="vite" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Figma-EA4C89?&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Docker-2CA5E0?&logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" /></code>
-<code><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Graphql logo" title="Graphql" height="25" /></code>
-<code><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket.io logo" title="Socket.io" height="25" /></code>
-<code><img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook logo" title="Storybook" height="25" /></code>
-
-
+<code><img src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" alt="Graphql logo" title="Graphql" height="25" /></code>
+<code><img src="https://img.shields.io/badge/Socket.io-010101?&&logo=Socket.io&logoColor=white" alt="Socket.io logo" title="Socket.io" height="25" /></code>
+<code><img src="https://img.shields.io/badge/storybook-FF4785?&logo=storybook&logoColor=white" alt="Storybook logo" title="Storybook" height="25" /></code>
+<code><img src="https://img.shields.io/badge/MUI-%230081CB.svg?&logo=mui&logoColor=white" alt="Mui logo" title="Mui" height="25" /></code>
+<code><img src="https://img.shields.io/badge/styled--components-DB7093?&logo=styled-components&logoColor=white" alt="Styled Components logo" title="Styled Components" height="25" /></code>
 
 
 ### Currently learning / improving on    
