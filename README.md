@@ -20,6 +20,7 @@ I like dreaming up ideas and making them come true with elegant interfaces. I ta
 ### Technologies and tools
 
 <code><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" /></code>
+<code><img src="https://img.shields.io/badge/next.js-282C34?&logo=nextdotjs&logoColor=white" alt="Next.js logo" title="Next.js" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" alt="Tailwind_CSS logo" title="Tailwind_CSS" height="25" /></code>
 <code><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></code>
@@ -35,7 +36,6 @@ I like dreaming up ideas and making them come true with elegant interfaces. I ta
 
 ### Currently learning / improving on    
 
-<code><img src="https://img.shields.io/badge/next.js-282C34?&logo=nextdotjs&logoColor=white" alt="Next.js logo" title="Next.js" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Vue.js-282C34?&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></code>
 
