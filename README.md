@@ -7,14 +7,16 @@ I'm looking for new opportunities
 Development experience __2+__ years (commercial development)    
 
 I am also a contributor to an open source library of components [esfront](https://github.com/Elonsoft/esfront "https://github.com/Elonsoft/esfront"),   
-and educational mentor in the RS School community.
+and educational mentor in the RS School community.   
+
+I like dreaming up ideas and making them come true with elegant interfaces. I take care of the experience, architecture, and code quality of the things I build.     
+
 
 Completed RSScool courses:    
 - REACT 2023 Q1 (REACT);    
 - JAVASCRIPT/FRONT-END 2022Q3 (JAVASCRIPT);    
 - JS/FE PRE-SCHOOL 2022Q2 (JAVASCRIPT).
-
-I like dreaming up ideas and making them come true with elegant interfaces. I take care of the experience, architecture, and code quality of the things I build.           
+          
 
 ### Skills:     
 
