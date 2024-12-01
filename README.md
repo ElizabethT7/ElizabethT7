@@ -4,7 +4,7 @@
 I'm Elizaveta Tymofieieva, a passionate front-end developer.   
 I'm looking for new opportunities      
 
-Development experience __2+__ years (commercial development)    
+Development experience __2+__ years        
 
 I am also a contributor to an open source library of components [esfront](https://github.com/Elonsoft/esfront "https://github.com/Elonsoft/esfront"),   
 and educational mentor in the RS School community.   
