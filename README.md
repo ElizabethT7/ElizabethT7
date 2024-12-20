@@ -54,5 +54,6 @@ Completed RSScool courses:
 
 <code><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Vue.js-282C34?&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></code>
+<code><img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React Native logo" title="React_Native" height="25" /></code>
 
 
