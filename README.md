@@ -47,7 +47,6 @@ Completed RSScool courses:
 <code><img src="https://img.shields.io/badge/Socket.io-010101?&&logo=Socket.io&logoColor=white" alt="Socket.io logo" title="Socket.io" height="25" /></code>
 <code><img src="https://img.shields.io/badge/storybook-FF4785?&logo=storybook&logoColor=white" alt="Storybook logo" title="Storybook" height="25" /></code>
 <code><img src="https://img.shields.io/badge/MUI-%230081CB.svg?&logo=mui&logoColor=white" alt="Mui logo" title="Mui" height="25" /></code>
-<code><img src="https://img.shields.io/badge/styled--components-DB7093?&logo=styled-components&logoColor=white" alt="Styled Components logo" title="Styled Components" height="25" /></code>
 
 
 ### Currently learning / improving on    
@@ -55,5 +54,7 @@ Completed RSScool courses:
 <code><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Vue.js-282C34?&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></code>
 <code><img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React Native logo" title="React_Native" height="25" /></code>
+<code><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" alt="Prisma logo" title="Prisma" height="25" /></code>
+
 
 
