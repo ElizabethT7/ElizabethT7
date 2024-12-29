@@ -41,7 +41,6 @@ Completed RSScool courses:
 
 <code><img src="https://img.shields.io/badge/Postman-FF6C37?&logo=Postman&logoColor=white" alt="Postman logo" title="Postman" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Vite-B73BFE?&logo=vite&logoColor=FFD62E" alt="Vite logo" title="vite" height="25" /></code>
-<code><img src="https://img.shields.io/badge/Figma-EA4C89?&logo=figma&logoColor=white" alt="Figma logo" title="Figma" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Docker-2CA5E0?&logo=docker&logoColor=white" alt="Docker logo" title="Docker" height="25" /></code>
 <code><img src="https://img.shields.io/badge/GraphQl-E10098?&logo=graphql&logoColor=white" alt="Graphql logo" title="Graphql" height="25" /></code>
 <code><img src="https://img.shields.io/badge/Socket.io-010101?&&logo=Socket.io&logoColor=white" alt="Socket.io logo" title="Socket.io" height="25" /></code>
